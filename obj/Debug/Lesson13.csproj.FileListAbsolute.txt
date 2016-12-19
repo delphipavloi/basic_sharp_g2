@@ -1,1 +1,5 @@
 D:\MC\Lectures\Group2\Lesson13\Lesson13\bin\Debug\Lesson13.exe.config
+D:\MC\Lectures\Group2\Lesson13\Lesson13\bin\Debug\Lesson13.exe
+D:\MC\Lectures\Group2\Lesson13\Lesson13\bin\Debug\Lesson13.pdb
+D:\MC\Lectures\Group2\Lesson13\Lesson13\obj\Debug\Lesson13.exe
+D:\MC\Lectures\Group2\Lesson13\Lesson13\obj\Debug\Lesson13.pdb
